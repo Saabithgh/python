@@ -1,9 +1,4 @@
-a=10
-b=20
-c=a+b
-print(c)
+username= "Saabith"
+city = "KKY"
+print("My username is {}, My city is {} .format(username,city))
 
-I learnt git command
-1. git init
-2. git add
-3. commit
